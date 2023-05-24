@@ -1,0 +1,304 @@
+{
+  "transactions": [
+      {
+          "customer_id": "CUST007",
+          "amount": "377.88",
+          "transaction_date": "2023-01-27T10:00:55.410Z",
+          "transaction_id": "01a2148c-e1aa-4a0c-a494-3552d8472490"
+      },
+      {
+          "customer_id": "CUST010",
+          "amount": "92.48",
+          "transaction_date": "2023-01-26T22:10:35.833Z",
+          "transaction_id": "516c69ee-81c8-47a1-ac64-74463adfdfe6"
+      },
+      {
+          "customer_id": "CUST004",
+          "amount": "969.82",
+          "transaction_date": "2023-03-01T20:46:06.297Z",
+          "transaction_id": "702fc5c9-f9ea-49f7-bb07-ede950d89cde"
+      },
+      {
+          "customer_id": "CUST007",
+          "amount": "790.38",
+          "transaction_date": "2023-01-04T16:38:13.807Z",
+          "transaction_id": "a628fe59-b239-4d2d-ad51-ebd8b6fef7b2"
+      },
+      {
+          "customer_id": "CUST008",
+          "amount": "92.99",
+          "transaction_date": "2023-03-15T09:49:47.981Z",
+          "transaction_id": "df1502ba-069b-4fc3-840d-0cf471ba004e"
+      },
+      {
+          "customer_id": "CUST003",
+          "amount": "161.43",
+          "transaction_date": "2023-01-13T18:31:15.956Z",
+          "transaction_id": "f4f90603-5a38-475f-93da-9f66fcc3a46f"
+      },
+      {
+          "customer_id": "CUST008",
+          "amount": "693.32",
+          "transaction_date": "2023-03-11T20:33:35.914Z",
+          "transaction_id": "b31916a3-f78a-42a1-8243-9a9f9cf3416f"
+      },
+      {
+          "customer_id": "CUST007",
+          "amount": "347.52",
+          "transaction_date": "2023-02-26T11:37:21.572Z",
+          "transaction_id": "cf200c4e-9404-46f8-a5c7-028144ecf84f"
+      },
+      {
+          "customer_id": "CUST010",
+          "amount": "258.34",
+          "transaction_date": "2023-03-18T13:58:01.053Z",
+          "transaction_id": "7ad82cac-7236-468b-bf65-25cfd477ca66"
+      },
+      {
+          "customer_id": "CUST009",
+          "amount": "122.39",
+          "transaction_date": "2023-01-18T12:33:50.046Z",
+          "transaction_id": "0368b9bc-4e96-4a40-a00f-f8e0e9c06762"
+      },
+      {
+          "customer_id": "CUST005",
+          "amount": "616.23",
+          "transaction_date": "2023-01-21T05:48:30.534Z",
+          "transaction_id": "f3df82e3-d421-4459-bc02-157254de51d3"
+      },
+      {
+          "customer_id": "CUST009",
+          "amount": "177.97",
+          "transaction_date": "2023-02-12T23:41:05.701Z",
+          "transaction_id": "fddc3649-575f-4de1-8ec7-e20e701f8d31"
+      },
+      {
+          "customer_id": "CUST010",
+          "amount": "439.43",
+          "transaction_date": "2023-01-14T00:20:41.524Z",
+          "transaction_id": "4073fa8d-69f5-481f-82d2-c723ef9e710c"
+      },
+      {
+          "customer_id": "CUST005",
+          "amount": "91.20",
+          "transaction_date": "2023-02-13T03:00:24.101Z",
+          "transaction_id": "9fdf9cd2-2e49-4c44-9294-439b008335d0"
+      },
+      {
+          "customer_id": "CUST005",
+          "amount": "627.19",
+          "transaction_date": "2023-03-10T22:32:06.873Z",
+          "transaction_id": "7c6d68e9-fc6f-42e5-9ee8-c38c440854bf"
+      },
+      {
+          "customer_id": "CUST008",
+          "amount": "776.44",
+          "transaction_date": "2023-01-15T12:56:44.355Z",
+          "transaction_id": "81114b46-a8a9-4fbe-8d45-22f61591b876"
+      },
+      {
+          "customer_id": "CUST007",
+          "amount": "583.47",
+          "transaction_date": "2023-02-21T00:16:03.868Z",
+          "transaction_id": "df060b39-c94d-4668-9193-e36db1cd4d01"
+      },
+      {
+          "customer_id": "CUST010",
+          "amount": "839.73",
+          "transaction_date": "2023-02-12T22:37:59.664Z",
+          "transaction_id": "b92051ab-0bfd-4e1f-82a2-a9b0fd04ff99"
+      },
+      {
+          "customer_id": "CUST008",
+          "amount": "381.15",
+          "transaction_date": "2023-01-13T01:43:28.355Z",
+          "transaction_id": "4156b369-97d0-4646-b839-02d763ebc884"
+      },
+      {
+          "customer_id": "CUST002",
+          "amount": "470.06",
+          "transaction_date": "2023-02-02T04:51:46.754Z",
+          "transaction_id": "3e243d75-5373-4ade-a2b0-d255a21287f8"
+      },
+      {
+          "customer_id": "CUST004",
+          "amount": "128.78",
+          "transaction_date": "2023-01-30T14:39:57.007Z",
+          "transaction_id": "9c6a0104-a590-4c6f-bf5b-7b9c522e18b6"
+      },
+      {
+          "customer_id": "CUST005",
+          "amount": "690.71",
+          "transaction_date": "2023-03-24T20:55:33.340Z",
+          "transaction_id": "25f38cd7-3486-419e-9f1e-8c170c38c4ea"
+      },
+      {
+          "customer_id": "CUST008",
+          "amount": "552.28",
+          "transaction_date": "2023-03-28T15:36:29.976Z",
+          "transaction_id": "63a377fb-7331-49a5-8f8a-975dbf88c26d"
+      },
+      {
+          "customer_id": "CUST004",
+          "amount": "893.34",
+          "transaction_date": "2023-03-17T23:13:45.876Z",
+          "transaction_id": "1fd0398c-d653-4f2b-9565-8adfd984a110"
+      },
+      {
+          "customer_id": "CUST005",
+          "amount": "141.31",
+          "transaction_date": "2023-03-19T08:01:55.366Z",
+          "transaction_id": "532202b4-ba5e-4554-823b-e9a6583b8e97"
+      },
+      {
+          "customer_id": "CUST005",
+          "amount": "510.03",
+          "transaction_date": "2023-01-29T18:20:50.804Z",
+          "transaction_id": "16f12904-94e5-4307-b697-db53f571a2ea"
+      },
+      {
+          "customer_id": "CUST008",
+          "amount": "873.33",
+          "transaction_date": "2023-01-16T17:19:13.727Z",
+          "transaction_id": "0ef73b40-8c5e-40ad-9d0b-adb475b3913f"
+      },
+      {
+          "customer_id": "CUST004",
+          "amount": "608.30",
+          "transaction_date": "2023-01-30T02:50:15.316Z",
+          "transaction_id": "ab498f51-8f16-45ea-b338-eb0c00a3b5b8"
+      },
+      {
+          "customer_id": "CUST007",
+          "amount": "382.07",
+          "transaction_date": "2023-01-30T10:43:36.553Z",
+          "transaction_id": "c72edf92-0e46-4881-adce-5622343e815f"
+      },
+      {
+          "customer_id": "CUST005",
+          "amount": "844.31",
+          "transaction_date": "2023-01-25T01:28:43.504Z",
+          "transaction_id": "7eb007dd-7350-45f3-89da-40d6896ec878"
+      },
+      {
+          "customer_id": "CUST009",
+          "amount": "137.66",
+          "transaction_date": "2023-01-11T15:30:30.544Z",
+          "transaction_id": "272a8abb-2112-48d2-af02-4a03b5c8ceae"
+      },
+      {
+          "customer_id": "CUST006",
+          "amount": "542.19",
+          "transaction_date": "2023-03-24T02:41:13.742Z",
+          "transaction_id": "542552a7-2cdd-4bfd-aaaa-941e6adee6cd"
+      },
+      {
+          "customer_id": "CUST002",
+          "amount": "277.59",
+          "transaction_date": "2023-01-20T01:31:45.426Z",
+          "transaction_id": "16d14006-ff57-48be-80f6-8500bdef0ff0"
+      },
+      {
+          "customer_id": "CUST010",
+          "amount": "824.26",
+          "transaction_date": "2023-01-16T14:40:25.734Z",
+          "transaction_id": "53be6eda-dd8d-4685-9f6b-621c38b2a47a"
+      },
+      {
+          "customer_id": "CUST001",
+          "amount": "734.41",
+          "transaction_date": "2023-02-09T10:02:33.448Z",
+          "transaction_id": "a71e6fb8-840c-4e03-9bdc-b07c5701069c"
+      },
+      {
+          "customer_id": "CUST008",
+          "amount": "504.19",
+          "transaction_date": "2023-02-09T08:22:29.699Z",
+          "transaction_id": "dea08724-6cbc-4d2d-96de-6b74cb71ae04"
+      },
+      {
+          "customer_id": "CUST007",
+          "amount": "773.73",
+          "transaction_date": "2023-03-12T06:41:40.232Z",
+          "transaction_id": "65770378-01ce-4f04-8869-20b270f5950a"
+      },
+      {
+          "customer_id": "CUST002",
+          "amount": "725.53",
+          "transaction_date": "2023-01-11T18:16:27.240Z",
+          "transaction_id": "a639f9ec-09de-4e8c-b823-d5122f22cb06"
+      },
+      {
+          "customer_id": "CUST002",
+          "amount": "300.65",
+          "transaction_date": "2023-03-15T21:05:38.991Z",
+          "transaction_id": "26c6cc0d-1c93-4946-953c-cbc2be6feef9"
+      },
+      {
+          "customer_id": "CUST004",
+          "amount": "259.91",
+          "transaction_date": "2023-02-26T05:07:11.931Z",
+          "transaction_id": "d734a47c-632e-485d-9441-e93c8ae685d3"
+      },
+      {
+          "customer_id": "CUST006",
+          "amount": "542.81",
+          "transaction_date": "2023-01-07T16:05:18.061Z",
+          "transaction_id": "0b95dd77-93a1-4fa4-be13-4471e45c709b"
+      },
+      {
+          "customer_id": "CUST010",
+          "amount": "306.00",
+          "transaction_date": "2023-03-10T06:05:47.739Z",
+          "transaction_id": "80f0c199-44f3-45ba-ac45-fa80e8d166de"
+      },
+      {
+          "customer_id": "CUST001",
+          "amount": "69.73",
+          "transaction_date": "2023-02-25T02:59:53.167Z",
+          "transaction_id": "205c6972-3756-4d35-9f4b-5e489121d6aa"
+      },
+      {
+          "customer_id": "CUST009",
+          "amount": "520.45",
+          "transaction_date": "2023-03-17T09:15:57.539Z",
+          "transaction_id": "9f501df3-0839-47f6-b71e-44cf9971fbe3"
+      },
+      {
+          "customer_id": "CUST004",
+          "amount": "111.20",
+          "transaction_date": "2023-03-08T20:28:43.411Z",
+          "transaction_id": "b5c82136-fbb7-4384-862f-a1ac7f680d3a"
+      },
+      {
+          "customer_id": "CUST001",
+          "amount": "195.32",
+          "transaction_date": "2023-01-27T08:31:05.328Z",
+          "transaction_id": "a54035c3-e3df-4a15-b936-046296b4e17e"
+      },
+      {
+          "customer_id": "CUST003",
+          "amount": "886.01",
+          "transaction_date": "2023-03-11T05:53:19.421Z",
+          "transaction_id": "33157618-d645-4e65-bc8b-e37a5b526369"
+      },
+      {
+          "customer_id": "CUST004",
+          "amount": "170.23",
+          "transaction_date": "2023-01-07T02:35:47.606Z",
+          "transaction_id": "57177ee2-6f9a-420f-ab74-def407271975"
+      },
+      {
+          "customer_id": "CUST010",
+          "amount": "621.88",
+          "transaction_date": "2023-02-26T11:28:35.857Z",
+          "transaction_id": "5f76d469-0cb8-49c0-b152-a5c2add5e53b"
+      },
+      {
+          "customer_id": "CUST009",
+          "amount": "116.32",
+          "transaction_date": "2023-01-24T13:19:06.514Z",
+          "transaction_id": "3689eae5-9d6e-4463-9b6c-63336bd8939c"
+      }
+  ]
+}

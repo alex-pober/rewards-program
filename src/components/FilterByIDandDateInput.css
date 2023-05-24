@@ -1,0 +1,25 @@
+label {
+  color: #f6f7f9;
+  font-weight: 800;
+  margin-right: 0.5rem;
+}
+
+input {
+  padding: 0.5rem;
+  border-style: none;
+  border-radius: 3px;
+}
+
+.filter-input-startend{
+  display: flex;
+  gap: 1rem;
+}
+
+.filter-inputs {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 800px;
+  margin-bottom: 1rem;
+}

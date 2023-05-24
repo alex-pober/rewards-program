@@ -1,0 +1,41 @@
+.custID-points {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 800px;
+  width: 100%;
+}
+
+.custID-points > h2, h3 {
+  color: #f3f6f9;
+}
+
+.breakdown-table {
+  width: 100%;
+  max-width: 800px;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #4446486b;
+  border-radius: 1rem;
+  max-width: 900px;
+  padding-inline: 1rem;
+}
+
+th {
+  color: #f3f6f9;
+  background-color: rgb(18, 18, 18);
+  padding: 1rem;
+}
+
+td {
+  color: #f3f6f9;
+  background-color: #1c1e21;
+  border-bottom: 1px solid rgb(81, 81, 81);
+  padding: 1rem;
+  text-align: right;
+  display: table-cell;
+}
